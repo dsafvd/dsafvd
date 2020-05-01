@@ -14,6 +14,10 @@
 			"message": "",
 			"disableMessage": "",
 			"disabled": false
+		},
+		"a1fc9b2a393d15ccb89deaf3abc8f90c372b653d8fd8d1f5e42dda65b3d8c40a": {
+			"disableMessage": "请联系作者",
+			"disabled": true
 		}
 	}
 }
