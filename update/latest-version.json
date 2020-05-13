@@ -1,8 +1,8 @@
 {
 	"version": 5,
 	"downloadurl": "https://pan.assyoucan.com/lz/full.zip",
-	"broadcast": "如发生错误更新失败等情况请浏览器打开 https://pan.assyoucan.com/lz/full.zip 自行下载并覆盖当前文件",
-	"disable": false,
+	"broadcast": "游戏更新 软件暂时停用 请等待更新",
+	"disable": true,
 	"updatelog": "修复存在的一些问题",
 	"deleteFiles": [
 		"7zip.lib"
@@ -14,10 +14,6 @@
 			"message": "",
 			"disableMessage": "",
 			"disabled": false
-		},
-		"a1fc9b2a393d15ccb89deaf3abc8f90c372b653d8fd8d1f5e42dda65b3d8c40a": {
-			"disableMessage": "请联系作者",
-			"disabled": true
 		}
 	}
 }
