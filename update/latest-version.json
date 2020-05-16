@@ -2,7 +2,7 @@
 	"version": 5,
 	"downloadurl": "https://pan.assyoucan.com/lz/full.zip",
 	"broadcast": "游戏更新 软件暂时停用 请等待更新 预计周末修复",
-	"disable": true,
+	"disable": false,
 	"updatelog": "修复存在的一些问题",
 	"deleteFiles": [
 		"7zip.lib"
