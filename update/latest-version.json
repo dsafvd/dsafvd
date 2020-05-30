@@ -3,7 +3,7 @@
 	"downloadurl": "https://pan.assyoucan.com/lz/full.zip",
 	"broadcast": "更新完毕 测试中 如有问题请反馈",
 	"disable": false,
-	"updatelog": "改用登录形式刷赞, 如无法接受需要账号密码请勿使用, 静待未来更新",
+	"updatelog": "刷的时候请勿登录游戏,教程写错下次更新会修改",
 	"deleteFiles": [
 		"7zip.lib"
 	],
