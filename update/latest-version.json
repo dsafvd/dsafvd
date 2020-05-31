@@ -1,9 +1,9 @@
 {
 	"version": 6,
 	"downloadurl": "https://pan.assyoucan.com/lz/full.zip",
-	"broadcast": "更新完毕 测试中 如有问题请反馈",
+	"broadcast": "刷的时候请勿登录游戏,教程写错下次更新会修改",
 	"disable": false,
-	"updatelog": "刷的时候请勿登录游戏,教程写错下次更新会修改",
+	"updatelog": "目前暂时改成账号密码登录,如无法接受请勿更新,暂待我后续更新",
 	"deleteFiles": [
 		"7zip.lib"
 	],
