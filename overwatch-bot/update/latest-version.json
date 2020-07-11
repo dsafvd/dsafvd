@@ -1,9 +1,9 @@
 {
-	"version": 6,
+	"version": 7,
 	"downloadurl": "https://pan.assyoucan.com/ow/full.zip",
 	"broadcast": "如发生错误更新失败等情况请浏览器打开 https://pan.assyoucan.com/ow/full.zip 自行下载并覆盖当前文件",
 	"disable": false,
-	"updatelog": "删除一些日志输出 修复可能无法运行的问题",
+	"updatelog": "修复可能无法运行的问题",
 	"deleteFiles": [],
 	"deleteDirectories": [],
 	"user": {
