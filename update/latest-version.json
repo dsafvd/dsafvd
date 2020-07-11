@@ -1,9 +1,9 @@
 {
-	"version": 6,
+	"version": 7,
 	"downloadurl": "https://pan.assyoucan.com/lz/full.zip",
-	"broadcast": "刷的时候请勿登录游戏,教程写错下次更新会修改",
+	"broadcast": "免密刷赞模式已修复",
 	"disable": false,
-	"updatelog": "目前暂时改成账号密码登录,如无法接受请勿更新,暂待我后续更新",
+	"updatelog": "免密刷赞模式修复,刷赞速度修复",
 	"deleteFiles": [
 		"7zip.lib"
 	],
