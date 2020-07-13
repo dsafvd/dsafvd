@@ -1,9 +1,9 @@
 {
-	"version": 7,
+	"version": 8,
 	"downloadurl": "https://pan.assyoucan.com/lz/full.zip",
 	"broadcast": "免密刷赞模式已修复",
 	"disable": false,
-	"updatelog": "免密刷赞模式修复,刷赞速度修复",
+	"updatelog": "免密刷赞模式修复,刷赞速度修复,修复乱码,修复报错",
 	"deleteFiles": [
 		"7zip.lib"
 	],
